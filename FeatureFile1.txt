@@ -1,1 +1,2 @@
 line 1 of mergeFile1
+Added line 2 from Feature Branch

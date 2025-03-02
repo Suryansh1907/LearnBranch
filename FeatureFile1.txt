@@ -1,2 +1,3 @@
 line 1 of mergeFile1
+
 added line 2 from Main Branch
